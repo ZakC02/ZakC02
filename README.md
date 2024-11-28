@@ -1,4 +1,4 @@
-## 👋 Welcome Zakaria's Github page
+## 👋 Welcome to Zakaria's Github page
 
 ### 🎓 About Me
 I am an MSc student at **Télécom Paris** (part of the Institut Polytechnique de Paris), majoring in **Data Science** and **Computer Vision**. I am currently on an exchange program at **Seoul National University**, in the Department of Computer Science and Engineering.
