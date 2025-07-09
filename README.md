@@ -1,7 +1,7 @@
 ## 👋 Welcome to Zakaria's Github page
 
 ### 🎓 About Me
-I am an MSc student at **Télécom Paris** (part of the Institut Polytechnique de Paris), majoring in **Data Science** and **Computer Vision**. I am currently on an exchange program at **Seoul National University**, in the Department of Computer Science and Engineering.
+I am a soon-to-graduate MSc student at **Télécom Paris** (part of the Institut Polytechnique de Paris), majoring in **Data Science** and **Computer Vision**. I have studied Computer Science for one semester at **Seoul National University** as part of an exchange program. I am currently on a Research Intern position at **Harvard Medical School**, applying Machine Learning to research in cardiology.
 
 ### 🔭 Areas of Interest
 - **Data Science**: ML/DL, Data Analysis, LLMs
@@ -9,18 +9,20 @@ I am an MSc student at **Télécom Paris** (part of the Institut Polytechnique d
 
 ### 💻 Projects
 
+- **[Cardiac Shape Modeling](https://github.com/ZakC02/cardiac-shape-modelling)**: Implementing the method of a research paper for the reconstruction and
+generation of 3D cardiac segmentation masks in short-axis view
+- **[Left Atrial Segmentation and Measurments]** : Open-source tool for segmentation of the left atrium in 2 and 4-chamber view cine MRI images, and compuation of left atrial long-axis length, area, and volume measurements. (Coming Soon)
 - **[Waterpixels](https://github.com/ZakC02/waterpixels)**: Image segmentation using the Watershed algorithm, implementing the method of a research paper
-- **[Cardiac Shape Modeling](https://github.com/ZakC02/cardiac-shape-modelling)**: Implementing an advanced research paper for the reconstruction and
-generation of segmentation masks of the heart's elements
 - **[Drone Control](https://github.com/ZakC02/drone-control)**: Controling a drone with hand movements
 
 ### Other Interests
-- 🥊 **Sports** : Boxing, Taekwondo, MMA, Hiking
-- 🌍 **Language Learning** : Currently learning Korean
+- 🌍 **Language Learning** : Spanish, Dutch, Arabic, Korean
+- 🥊 **Sports** : Boxing, Taekwondo, MMA, Hiking, Football
 - 🏴‍☠️ **One Piece** , of course
+- 🧠 **Psychology**
 
 ### 📫 How to Reach Me
-- 📧 Email: zakaria.chahboune@telecom-paris.fr
+- 📧 Email: zakaria.chahboune@telecom-paris.fr, zchahbou@harvard.bidmc.edu
 - 💼 LinkedIn: [Zakaria Chahboune](https://www.linkedin.com/in/zakaria-chahboune)
 
 
