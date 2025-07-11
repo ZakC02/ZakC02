@@ -1,7 +1,7 @@
 ## 👋 Welcome to Zakaria's Github page
 
 ### 🎓 About Me
-I am a soon-to-graduate MSc student at **Télécom Paris** (part of the Institut Polytechnique de Paris), majoring in **Data Science** and **Computer Vision**. I have studied Computer Science for one semester at **Seoul National University** as part of an exchange program. I am currently on a Research Intern position at **Harvard Medical School**, applying Machine Learning to research in cardiology.
+I am a soon-to-be graduate MSc student at **Télécom Paris** (part of the Institut Polytechnique de Paris), majoring in **Data Science** and **Computer Vision**. I have studied Computer Science for one semester at **Seoul National University** as part of an exchange program. I am currently on a Research Intern position at **Harvard Medical School**, applying Machine Learning to research in cardiology.
 
 ### 🔭 Areas of Interest
 - **Data Science**: ML/DL, Data Analysis, LLMs
@@ -11,7 +11,7 @@ I am a soon-to-graduate MSc student at **Télécom Paris** (part of the Institut
 
 - **[Cardiac Shape Modeling](https://github.com/ZakC02/cardiac-shape-modelling)**: Implementing the method of a research paper for the reconstruction and
 generation of 3D cardiac segmentation masks in short-axis view
-- **[Left Atrial Segmentation and Measurments]** : Open-source tool for segmentation of the left atrium in 2 and 4-chamber view cine MRI images, and compuation of left atrial long-axis length, area, and volume measurements. (Coming Soon)
+- **[Left Atrial Segmentation and Measurments](https://github.com/ZakC02/AutoLAMA)** : Open-source tool for segmentation of the left atrium in 2 and 4-chamber view cine MRI images, and compuation of left atrial long-axis length, area, and volume measurements. (Coming Soon)
 - **[Waterpixels](https://github.com/ZakC02/waterpixels)**: Image segmentation using the Watershed algorithm, implementing the method of a research paper
 - **[Drone Control](https://github.com/ZakC02/drone-control)**: Controling a drone with hand movements
 
